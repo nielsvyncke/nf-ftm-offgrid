@@ -1,0 +1,995 @@
+{
+    "training": [
+        {
+            "id": "testA_1",
+            "image": "testA_1.bmp",
+            "label": "testA_1_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_10",
+            "image": "testA_10.bmp",
+            "label": "testA_10_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_11",
+            "image": "testA_11.bmp",
+            "label": "testA_11_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_12",
+            "image": "testA_12.bmp",
+            "label": "testA_12_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_13",
+            "image": "testA_13.bmp",
+            "label": "testA_13_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_14",
+            "image": "testA_14.bmp",
+            "label": "testA_14_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_15",
+            "image": "testA_15.bmp",
+            "label": "testA_15_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_16",
+            "image": "testA_16.bmp",
+            "label": "testA_16_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_17",
+            "image": "testA_17.bmp",
+            "label": "testA_17_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_18",
+            "image": "testA_18.bmp",
+            "label": "testA_18_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_19",
+            "image": "testA_19.bmp",
+            "label": "testA_19_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_2",
+            "image": "testA_2.bmp",
+            "label": "testA_2_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_20",
+            "image": "testA_20.bmp",
+            "label": "testA_20_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_21",
+            "image": "testA_21.bmp",
+            "label": "testA_21_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_22",
+            "image": "testA_22.bmp",
+            "label": "testA_22_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_23",
+            "image": "testA_23.bmp",
+            "label": "testA_23_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_24",
+            "image": "testA_24.bmp",
+            "label": "testA_24_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_25",
+            "image": "testA_25.bmp",
+            "label": "testA_25_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_26",
+            "image": "testA_26.bmp",
+            "label": "testA_26_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_27",
+            "image": "testA_27.bmp",
+            "label": "testA_27_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_28",
+            "image": "testA_28.bmp",
+            "label": "testA_28_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_29",
+            "image": "testA_29.bmp",
+            "label": "testA_29_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_3",
+            "image": "testA_3.bmp",
+            "label": "testA_3_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_30",
+            "image": "testA_30.bmp",
+            "label": "testA_30_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_31",
+            "image": "testA_31.bmp",
+            "label": "testA_31_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_32",
+            "image": "testA_32.bmp",
+            "label": "testA_32_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_33",
+            "image": "testA_33.bmp",
+            "label": "testA_33_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_34",
+            "image": "testA_34.bmp",
+            "label": "testA_34_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_35",
+            "image": "testA_35.bmp",
+            "label": "testA_35_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_36",
+            "image": "testA_36.bmp",
+            "label": "testA_36_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_37",
+            "image": "testA_37.bmp",
+            "label": "testA_37_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_38",
+            "image": "testA_38.bmp",
+            "label": "testA_38_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_39",
+            "image": "testA_39.bmp",
+            "label": "testA_39_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_4",
+            "image": "testA_4.bmp",
+            "label": "testA_4_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_40",
+            "image": "testA_40.bmp",
+            "label": "testA_40_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_41",
+            "image": "testA_41.bmp",
+            "label": "testA_41_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_42",
+            "image": "testA_42.bmp",
+            "label": "testA_42_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_43",
+            "image": "testA_43.bmp",
+            "label": "testA_43_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_44",
+            "image": "testA_44.bmp",
+            "label": "testA_44_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_45",
+            "image": "testA_45.bmp",
+            "label": "testA_45_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_46",
+            "image": "testA_46.bmp",
+            "label": "testA_46_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_47",
+            "image": "testA_47.bmp",
+            "label": "testA_47_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_48",
+            "image": "testA_48.bmp",
+            "label": "testA_48_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_49",
+            "image": "testA_49.bmp",
+            "label": "testA_49_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_5",
+            "image": "testA_5.bmp",
+            "label": "testA_5_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_50",
+            "image": "testA_50.bmp",
+            "label": "testA_50_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_51",
+            "image": "testA_51.bmp",
+            "label": "testA_51_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_52",
+            "image": "testA_52.bmp",
+            "label": "testA_52_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_53",
+            "image": "testA_53.bmp",
+            "label": "testA_53_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_54",
+            "image": "testA_54.bmp",
+            "label": "testA_54_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_55",
+            "image": "testA_55.bmp",
+            "label": "testA_55_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_56",
+            "image": "testA_56.bmp",
+            "label": "testA_56_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_57",
+            "image": "testA_57.bmp",
+            "label": "testA_57_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testA_58",
+            "image": "testA_58.bmp",
+            "label": "testA_58_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_59",
+            "image": "testA_59.bmp",
+            "label": "testA_59_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_6",
+            "image": "testA_6.bmp",
+            "label": "testA_6_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testA_60",
+            "image": "testA_60.bmp",
+            "label": "testA_60_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testA_7",
+            "image": "testA_7.bmp",
+            "label": "testA_7_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testA_8",
+            "image": "testA_8.bmp",
+            "label": "testA_8_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testA_9",
+            "image": "testA_9.bmp",
+            "label": "testA_9_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testB_1",
+            "image": "testB_1.bmp",
+            "label": "testB_1_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testB_10",
+            "image": "testB_10.bmp",
+            "label": "testB_10_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testB_11",
+            "image": "testB_11.bmp",
+            "label": "testB_11_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testB_12",
+            "image": "testB_12.bmp",
+            "label": "testB_12_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testB_13",
+            "image": "testB_13.bmp",
+            "label": "testB_13_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testB_14",
+            "image": "testB_14.bmp",
+            "label": "testB_14_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testB_15",
+            "image": "testB_15.bmp",
+            "label": "testB_15_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testB_16",
+            "image": "testB_16.bmp",
+            "label": "testB_16_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testB_17",
+            "image": "testB_17.bmp",
+            "label": "testB_17_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testB_18",
+            "image": "testB_18.bmp",
+            "label": "testB_18_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testB_19",
+            "image": "testB_19.bmp",
+            "label": "testB_19_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testB_2",
+            "image": "testB_2.bmp",
+            "label": "testB_2_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "testB_20",
+            "image": "testB_20.bmp",
+            "label": "testB_20_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testB_3",
+            "image": "testB_3.bmp",
+            "label": "testB_3_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "testB_4",
+            "image": "testB_4.bmp",
+            "label": "testB_4_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "testB_5",
+            "image": "testB_5.bmp",
+            "label": "testB_5_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testB_6",
+            "image": "testB_6.bmp",
+            "label": "testB_6_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testB_7",
+            "image": "testB_7.bmp",
+            "label": "testB_7_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "testB_8",
+            "image": "testB_8.bmp",
+            "label": "testB_8_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "testB_9",
+            "image": "testB_9.bmp",
+            "label": "testB_9_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_1",
+            "image": "train_1.bmp",
+            "label": "train_1_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_10",
+            "image": "train_10.bmp",
+            "label": "train_10_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_11",
+            "image": "train_11.bmp",
+            "label": "train_11_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_12",
+            "image": "train_12.bmp",
+            "label": "train_12_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_13",
+            "image": "train_13.bmp",
+            "label": "train_13_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_14",
+            "image": "train_14.bmp",
+            "label": "train_14_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_15",
+            "image": "train_15.bmp",
+            "label": "train_15_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_16",
+            "image": "train_16.bmp",
+            "label": "train_16_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_17",
+            "image": "train_17.bmp",
+            "label": "train_17_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_18",
+            "image": "train_18.bmp",
+            "label": "train_18_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_19",
+            "image": "train_19.bmp",
+            "label": "train_19_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_2",
+            "image": "train_2.bmp",
+            "label": "train_2_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_20",
+            "image": "train_20.bmp",
+            "label": "train_20_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_21",
+            "image": "train_21.bmp",
+            "label": "train_21_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_22",
+            "image": "train_22.bmp",
+            "label": "train_22_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_23",
+            "image": "train_23.bmp",
+            "label": "train_23_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_24",
+            "image": "train_24.bmp",
+            "label": "train_24_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_25",
+            "image": "train_25.bmp",
+            "label": "train_25_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_26",
+            "image": "train_26.bmp",
+            "label": "train_26_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_27",
+            "image": "train_27.bmp",
+            "label": "train_27_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_28",
+            "image": "train_28.bmp",
+            "label": "train_28_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_29",
+            "image": "train_29.bmp",
+            "label": "train_29_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_3",
+            "image": "train_3.bmp",
+            "label": "train_3_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_30",
+            "image": "train_30.bmp",
+            "label": "train_30_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_31",
+            "image": "train_31.bmp",
+            "label": "train_31_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_32",
+            "image": "train_32.bmp",
+            "label": "train_32_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_33",
+            "image": "train_33.bmp",
+            "label": "train_33_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_34",
+            "image": "train_34.bmp",
+            "label": "train_34_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_35",
+            "image": "train_35.bmp",
+            "label": "train_35_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_36",
+            "image": "train_36.bmp",
+            "label": "train_36_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_37",
+            "image": "train_37.bmp",
+            "label": "train_37_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_38",
+            "image": "train_38.bmp",
+            "label": "train_38_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_39",
+            "image": "train_39.bmp",
+            "label": "train_39_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_4",
+            "image": "train_4.bmp",
+            "label": "train_4_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_40",
+            "image": "train_40.bmp",
+            "label": "train_40_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_41",
+            "image": "train_41.bmp",
+            "label": "train_41_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_42",
+            "image": "train_42.bmp",
+            "label": "train_42_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_43",
+            "image": "train_43.bmp",
+            "label": "train_43_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_44",
+            "image": "train_44.bmp",
+            "label": "train_44_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_45",
+            "image": "train_45.bmp",
+            "label": "train_45_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_46",
+            "image": "train_46.bmp",
+            "label": "train_46_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_47",
+            "image": "train_47.bmp",
+            "label": "train_47_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_48",
+            "image": "train_48.bmp",
+            "label": "train_48_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_49",
+            "image": "train_49.bmp",
+            "label": "train_49_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_5",
+            "image": "train_5.bmp",
+            "label": "train_5_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_50",
+            "image": "train_50.bmp",
+            "label": "train_50_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_51",
+            "image": "train_51.bmp",
+            "label": "train_51_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_52",
+            "image": "train_52.bmp",
+            "label": "train_52_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_53",
+            "image": "train_53.bmp",
+            "label": "train_53_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_54",
+            "image": "train_54.bmp",
+            "label": "train_54_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_55",
+            "image": "train_55.bmp",
+            "label": "train_55_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_56",
+            "image": "train_56.bmp",
+            "label": "train_56_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_57",
+            "image": "train_57.bmp",
+            "label": "train_57_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_58",
+            "image": "train_58.bmp",
+            "label": "train_58_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_59",
+            "image": "train_59.bmp",
+            "label": "train_59_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_6",
+            "image": "train_6.bmp",
+            "label": "train_6_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_60",
+            "image": "train_60.bmp",
+            "label": "train_60_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_61",
+            "image": "train_61.bmp",
+            "label": "train_61_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_62",
+            "image": "train_62.bmp",
+            "label": "train_62_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_63",
+            "image": "train_63.bmp",
+            "label": "train_63_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_64",
+            "image": "train_64.bmp",
+            "label": "train_64_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_65",
+            "image": "train_65.bmp",
+            "label": "train_65_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_66",
+            "image": "train_66.bmp",
+            "label": "train_66_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_67",
+            "image": "train_67.bmp",
+            "label": "train_67_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_68",
+            "image": "train_68.bmp",
+            "label": "train_68_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_69",
+            "image": "train_69.bmp",
+            "label": "train_69_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_7",
+            "image": "train_7.bmp",
+            "label": "train_7_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_70",
+            "image": "train_70.bmp",
+            "label": "train_70_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_71",
+            "image": "train_71.bmp",
+            "label": "train_71_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_72",
+            "image": "train_72.bmp",
+            "label": "train_72_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_73",
+            "image": "train_73.bmp",
+            "label": "train_73_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_74",
+            "image": "train_74.bmp",
+            "label": "train_74_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_75",
+            "image": "train_75.bmp",
+            "label": "train_75_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_76",
+            "image": "train_76.bmp",
+            "label": "train_76_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_77",
+            "image": "train_77.bmp",
+            "label": "train_77_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_78",
+            "image": "train_78.bmp",
+            "label": "train_78_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_79",
+            "image": "train_79.bmp",
+            "label": "train_79_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_8",
+            "image": "train_8.bmp",
+            "label": "train_8_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_80",
+            "image": "train_80.bmp",
+            "label": "train_80_anno.bmp",
+            "fold": 0
+        },
+        {
+            "id": "train_81",
+            "image": "train_81.bmp",
+            "label": "train_81_anno.bmp",
+            "fold": 1
+        },
+        {
+            "id": "train_82",
+            "image": "train_82.bmp",
+            "label": "train_82_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_83",
+            "image": "train_83.bmp",
+            "label": "train_83_anno.bmp",
+            "fold": 2
+        },
+        {
+            "id": "train_84",
+            "image": "train_84.bmp",
+            "label": "train_84_anno.bmp",
+            "fold": 4
+        },
+        {
+            "id": "train_85",
+            "image": "train_85.bmp",
+            "label": "train_85_anno.bmp",
+            "fold": 3
+        },
+        {
+            "id": "train_9",
+            "image": "train_9.bmp",
+            "label": "train_9_anno.bmp",
+            "fold": 3
+        }
+    ],
+    "test": []
+}

@@ -1,0 +1,15 @@
+Third Party Licenses
+-----------------------------------------------------------------------
+
+/*********************************************************************/
+i. GLaS: Gland segmentation in colon histology images
+    https://wrap.warwick.ac.uk/id/eprint/81337/
+/*********************************************************************/
+
+Data Usage Agreement / Citations
+
+The dataset is provided for research purposes only. Commercial uses are not allowed. If you intend to publish research work that uses this dataset, please cite the following papers:
+
+[1] Sirinukunwattana, K., Pluim, J. P., Chen, H., Qi, X., Heng, P. A., Guo, Y. B., ... & Rajpoot, N. M. (2017). Gland segmentation in colon histology images: The glas challenge contest. Medical image analysis, 35, 489-502. https://doi.org/10.1016/j.media.2016.08.008
+
+[2] Sirinukunwattana, K., Snead, D. R., & Rajpoot, N. M. (2015). A stochastic polygons model for glandular structures in colon histology images. IEEE transactions on medical imaging, 34(11), 2366-2378. https://doi.org/10.1109/TMI.2015.2433900
