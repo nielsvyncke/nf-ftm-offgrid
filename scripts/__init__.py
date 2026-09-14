@@ -1,4 +1,4 @@
 from .data import *
 from .metrics import *
-from .swinunetr_inr import *
+from .nfftm import *
 from .utils import *
